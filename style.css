@@ -838,6 +838,10 @@ section {
     border-left: 1px solid var(--color-border);
   }
   
+  .project-card {
+    width: 450px;
+  }
+
   .nav-menu.active {
     right: 0;
   }
